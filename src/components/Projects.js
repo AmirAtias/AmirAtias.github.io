@@ -5,7 +5,7 @@ import { css, jsx } from "@emotion/core";
 import ReactTooltip from "react-tooltip";
 const backgroundCss = css({
   background:
-    "url(https://assets.entrepreneur.com/content/3x2/2000/20171029170739-shutterstock-318471329.jpeg?width=700&crop=2:1) no-repeat center center fixed",
+    "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwY3jOOTGXMMS3YYcmjULumtsYmANpesAQDpCScTeVfBXHtv5M&usqp=CAU) no-repeat center center fixed",
   "-webkit-background-size": "cover",
   "-moz-background-size": " cover",
   " -o-background-size": "cover",
@@ -19,7 +19,7 @@ const title = css({
   "flex-flow": "column wrap",
   "justify-content": "center",
   "align-items": "center",
-  color: "black",
+  color: "white",
   "font-family": "'Oswald', sans-serif"
 });
 const mainDiv = css({

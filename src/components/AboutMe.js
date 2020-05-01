@@ -19,7 +19,7 @@ const mainDivCss = css({
 const sds = css({
   "background-color": "black",
   opacity: "0.7",
-  padding: "center",
+  padding: "2%",
   "margin-right": "auto",
   "margin-left": "auto",
   "border-radius": "10px",
